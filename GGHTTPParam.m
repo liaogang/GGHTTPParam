@@ -5,7 +5,7 @@
 //  Created by minisj.net on 2021/2/2.
 //
 
-#import "NSHTTPParam.h"
+#import "GGHTTPParam.h"
 
 
 NSString * AFPercentEscapedStringFromString2(NSString *string) {
